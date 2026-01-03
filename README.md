@@ -48,8 +48,8 @@ For manual installation (copy/paste), see our [Installation Guide](https://blaze
 
 ### Framework Guides
 
-- [Vite Setup](https://blazeui.com/docs/installation?tab=npm-vite)
-- [Next.js Setup](https://blazeui.com/docs/installation?tab=npm-next)
+- [Vite Setup](https://blazeui.netlify.app/docs/installation)
+- [Next.js Setup](https://blazeui.netlify.app/docs/installation)
 
 #### Peer Dependencies
 
@@ -214,9 +214,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Links
 
-- [Documentation](https://blazeui.com/docs)
-- [Components](https://blazeui.com/components)
-- [GitHub](https://github.com/yourusername/blazeui)
+- [Documentation](https://blazeui.netlify.app/docs)
+- [Components](https://blazeui.netlify.app/components)
+- [GitHub](https://github.com/Bodyhc/BlazeUI)
 
 ## 💡 Acknowledgments
 
